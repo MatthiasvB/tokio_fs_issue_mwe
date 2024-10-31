@@ -1,0 +1,6 @@
+.direnv/
+dumps/
+target/
+result
+**/data.ms
+testnewline
